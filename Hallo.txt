@@ -2,7 +2,11 @@ Hei
 Yo
 Sup
 
+Another
+Changes
+
 Changing master branch before merging,
+master
 
 Up dog.
 Whats up dog?
@@ -11,6 +15,10 @@ Not much.
 XD
 Shut up.
 
+CCCCCCChanges
+turn and face the strange
+
 This is weird, but im learning how to use git :)
 
 Will it work?
+Eperienced conflict, resolved it before merging.
