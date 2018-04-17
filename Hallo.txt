@@ -2,6 +2,8 @@ Hei
 Yo
 Sup
 
+Changing master branch before merging,
+
 Up dog.
 Whats up dog?
 Not much.
@@ -10,3 +12,5 @@ XD
 Shut up.
 
 This is weird, but im learning how to use git :)
+
+Will it work?
